@@ -1,0 +1,29 @@
+
+.faq{
+    background-color: black;
+    padding: 5em 5em;
+}
+.faq h1{
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+}
+
+.content-content{
+    padding: 5em 4em;
+}
+.footer {
+    background: #ffffff;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+  }
+  .footer-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  .footer-links a {
+    text-decoration: none;
+    color: #007bff;
+  }
